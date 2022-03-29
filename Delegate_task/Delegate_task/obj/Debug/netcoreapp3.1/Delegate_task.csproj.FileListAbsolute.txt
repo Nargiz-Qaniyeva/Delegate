@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.exe
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.deps.json
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.runtimeconfig.json
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.dll
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\bin\Debug\netcoreapp3.1\Delegate_task.pdb
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.AssemblyInfo.cs
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.dll
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.pdb
+C:\Users\nargi\Desktop\Delegate\Delegate_task\Delegate_task\obj\Debug\netcoreapp3.1\Delegate_task.genruntimeconfig.cache
